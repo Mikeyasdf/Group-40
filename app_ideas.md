@@ -30,4 +30,7 @@ Miguel
 - App that basically lets you play whatever music you want for free, since every other music app charges for everything. This way you won't have to download illegal music off the internet.
 3. Astronomy App
 - Allows user to enter what notifications they'd like to see about space. Specifically, it notifies the user of things going down right over there heads, such as a comet, Mars being visible, or a satellite flying over your head.
-4. 
+4. Bus App
+- Helps alert user when the bus would arrive in an area around them. Also, shows specifically where and at what time the bus would reach a certain destination.
+5. Life Story App
+- Essentially makes it so a bunch of random people can share their life stories and possibly help someone who's going through that problem right now. It can also bring a good laugh and lighten up someone's day.
